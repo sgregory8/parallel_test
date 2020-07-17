@@ -1,0 +1,13 @@
+.DS_Store
+src/.DS_Store
+src/test/.DS_Store
+.idea/
+*.iml
+.settings
+.project
+.classpath
+bin/
+target/
+src/test/resources/application-local.properties
+/src/test/resources/application-ppe-local.properties
+/src/test/resources/id_sftp_rsa
